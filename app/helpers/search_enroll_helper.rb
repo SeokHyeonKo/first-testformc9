@@ -1,0 +1,2 @@
+module SearchEnrollHelper
+end
